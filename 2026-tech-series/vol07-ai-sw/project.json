@@ -1,0 +1,14 @@
+{
+  "id": "etri-ts-vol07",
+  "year": 2026,
+  "type": "news",
+  "org": [
+    "etri"
+  ],
+  "series": "etri-tech-series-2026",
+  "order": 7,
+  "issue": "Vol.7",
+  "title": "AI·SW 혁신기술",
+  "techs": 10,
+  "thumb": "vol7"
+}

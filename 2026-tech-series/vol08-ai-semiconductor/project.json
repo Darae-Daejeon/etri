@@ -1,0 +1,14 @@
+{
+  "id": "etri-ts-vol08",
+  "year": 2026,
+  "type": "news",
+  "org": [
+    "etri"
+  ],
+  "series": "etri-tech-series-2026",
+  "order": 8,
+  "issue": "Vol.8",
+  "title": "차세대 AI반도체·컴퓨팅",
+  "techs": 10,
+  "thumb": "vol8"
+}

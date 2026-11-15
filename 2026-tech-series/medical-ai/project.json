@@ -1,0 +1,52 @@
+{
+  "id": "etri-ts-medical",
+  "year": 2026,
+  "type": "news",
+  "org": [
+    "etri"
+  ],
+  "series": "etri-tech-series-2026",
+  "order": 0,
+  "issue": "Medical AI",
+  "title": "의료·헬스케어 AI 기술이전 안내",
+  "short": "ETRI 의료AI",
+  "thumb": "medical",
+  "smk": [
+    {
+      "no": "01",
+      "field": "의료 AI",
+      "inst": "ETRI 의료정보연구실",
+      "who": "최재훈 외",
+      "title": "미래 건강 예측을 위한 의료지능 딥러닝 엔진 기술",
+      "url": "smk/tech-01.html",
+      "thumb": "etri-tech1"
+    },
+    {
+      "no": "02",
+      "field": "의료 AI",
+      "inst": "ETRI 의료정보연구실",
+      "who": "최재훈 외",
+      "title": "미래 건강상태·예후 예측 헬스케어 인공지능 기술",
+      "url": "smk/tech-02.html",
+      "thumb": "etri-tech2"
+    },
+    {
+      "no": "03",
+      "field": "의료 AI",
+      "inst": "ETRI 의료정보연구실",
+      "who": "최재훈 외",
+      "title": "개인 맞춤형 건강관리 프로그램 계획 AI 헬스케어 기술",
+      "url": "smk/tech-03.html",
+      "thumb": "etri-tech3"
+    },
+    {
+      "no": "04",
+      "field": "의료 AI",
+      "inst": "ETRI 의료정보연구실",
+      "who": "최재훈",
+      "title": "미래 건강상태 맞춤 예측·최적 관리 인공지능 기술",
+      "url": "smk/tech-04.html",
+      "thumb": "etri-tech4"
+    }
+  ]
+}

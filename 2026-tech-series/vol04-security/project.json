@@ -1,0 +1,14 @@
+{
+  "id": "etri-ts-vol04",
+  "year": 2026,
+  "type": "news",
+  "org": [
+    "etri"
+  ],
+  "series": "etri-tech-series-2026",
+  "order": 4,
+  "issue": "Vol.4",
+  "title": "차세대 보안기술",
+  "techs": 12,
+  "thumb": "vol4"
+}

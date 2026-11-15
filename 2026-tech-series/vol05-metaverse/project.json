@@ -1,0 +1,14 @@
+{
+  "id": "etri-ts-vol05",
+  "year": 2026,
+  "type": "news",
+  "org": [
+    "etri"
+  ],
+  "series": "etri-tech-series-2026",
+  "order": 5,
+  "issue": "Vol.5",
+  "title": "메타버스 혁신기술",
+  "techs": 10,
+  "thumb": "vol5"
+}
